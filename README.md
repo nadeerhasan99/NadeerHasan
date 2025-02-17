@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Nadeer Hasan 
-- 👀 I’m interested in photonics and computer vision 
-- 🌱 I’m currently studying EMJMD PSRS Program,Biometric and Intelligent vision specialization
-- 
-- 📫 you can reach me through: nadeerhasan99@gmail.com or nadhasan@uef.fi
--
+
+    👋 Hi, I’m @nadeerhasan99
+    👀 I’m interested in Image Processing and AI
+    🌱 I’m currently doing my master thesis at Sorbonne university
+    📫 How to reach me: nadeer.hasan@sorbonne-universite.fr and nadhasan@uef.fi
 
